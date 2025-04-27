@@ -1,6 +1,9 @@
 # torneo-esports-uml
 Diseño de una aplicación de gestión de torneos
 
+Creador: César A. Alcázar
+Enlace Git-Hub: https://github.com/CesarAuAlcazar/torneo-esports-uml
+
 DISEÑO DE UNA APLICACIÓN DE GESTIÓN Y CONSULTA DE TORNEOS DE ESPORTS
 Aplicación de Torneos de eSports
 Para la realización de esta actividad me he inspirado en el la página de torneos de Riot Games https://lolesports.com/es-ES/tournament/113470835034591734/overview.
